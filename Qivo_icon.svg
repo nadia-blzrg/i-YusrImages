@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 31.98 31.98">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill-rule: evenodd;
+      }
+
+      .st0, .st2 {
+        fill: url(#Dégradé_sans_nom_10);
+      }
+
+      .st1, .st3 {
+        fill: url(#Dégradé_sans_nom_17);
+      }
+
+      .st4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st5 {
+        fill: url(#Dégradé_sans_nom_18);
+      }
+
+      .st6 {
+        fill: url(#Dégradé_sans_nom_16);
+      }
+
+      .st3, .st2 {
+        clip-rule: evenodd;
+      }
+
+      .st7 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_17" data-name="Dégradé sans nom 17" x1="6.99" y1="23.28" x2="22.36" y2="10.83" gradientUnits="userSpaceOnUse">
+      <stop offset=".09" stop-color="#51b7b0"/>
+      <stop offset=".93" stop-color="#3c0366"/>
+    </linearGradient>
+    <clipPath id="clippath">
+      <path class="st3" d="M15.99,9.27c3.71,0,6.72,3.01,6.72,6.72s-3.01,6.72-6.72,6.72-6.72-3.01-6.72-6.72,3.01-6.72,6.72-6.72M15.99,6.1c5.46,0,9.89,4.43,9.89,9.89s-4.43,9.89-9.89,9.89-9.89-4.43-9.89-9.89S10.53,6.1,15.99,6.1Z"/>
+    </clipPath>
+    <linearGradient id="Dégradé_sans_nom_16" data-name="Dégradé sans nom 16" x1="22.36" y1="20.51" x2="6.41" y2="9.19" gradientUnits="userSpaceOnUse">
+      <stop offset=".54" stop-color="#3c0366"/>
+      <stop offset=".59" stop-color="#412f78"/>
+      <stop offset=".65" stop-color="#465889"/>
+      <stop offset=".71" stop-color="#497a97"/>
+      <stop offset=".77" stop-color="#4d95a2"/>
+      <stop offset=".84" stop-color="#4fa8a9"/>
+      <stop offset=".9" stop-color="#50b3ae"/>
+      <stop offset=".97" stop-color="#51b7b0"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_10" data-name="Dégradé sans nom 10" x1="8.46" y1="20.93" x2="18.35" y2="20.93" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#00d4bd"/>
+      <stop offset=".89" stop-color="#3c0366"/>
+    </linearGradient>
+    <clipPath id="clippath-1">
+      <path class="st2" d="M15.99,15.99c5.46,0,9.89,4.43,9.89,9.89h-3.16c0-3.71-3.01-6.72-6.72-6.72v-3.16Z"/>
+    </clipPath>
+    <linearGradient id="Dégradé_sans_nom_18" data-name="Dégradé sans nom 18" x1="15.12" y1="18.41" x2="23.79" y2="22.17" gradientUnits="userSpaceOnUse">
+      <stop offset=".06" stop-color="#51b7b0"/>
+      <stop offset=".25" stop-color="#4a7d98"/>
+      <stop offset=".63" stop-color="#3c0366"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path class="st1" d="M15.99,9.27c3.71,0,6.72,3.01,6.72,6.72s-3.01,6.72-6.72,6.72-6.72-3.01-6.72-6.72,3.01-6.72,6.72-6.72M15.99,6.1c5.46,0,9.89,4.43,9.89,9.89s-4.43,9.89-9.89,9.89-9.89-4.43-9.89-9.89S10.53,6.1,15.99,6.1Z"/>
+    <g class="st7">
+      <rect class="st6" x="6.1" y="6.1" width="19.78" height="19.78"/>
+    </g>
+  </g>
+  <g>
+    <path class="st0" d="M15.99,15.99c5.46,0,9.89,4.43,9.89,9.89h-3.16c0-3.71-3.01-6.72-6.72-6.72v-3.16Z"/>
+    <g class="st4">
+      <rect class="st5" x="15.99" y="15.99" width="9.89" height="9.89"/>
+    </g>
+  </g>
+</svg>
