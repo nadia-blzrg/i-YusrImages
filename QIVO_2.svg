@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 131 39">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #51b7b0;
+        font-size: 10.1px;
+      }
+
+      .st0, .st1 {
+        font-family: NordiquePro-Bold, NordiquePro-Bold;
+        font-weight: 700;
+      }
+
+      .st2, .st3 {
+        fill-rule: evenodd;
+      }
+
+      .st2, .st4 {
+        fill: url(#Dégradé_sans_nom_10);
+      }
+
+      .st3, .st5 {
+        fill: url(#Dégradé_sans_nom_17);
+      }
+
+      .st1 {
+        fill: #3c0366;
+        font-size: 34.99px;
+      }
+
+      .st6 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st7 {
+        fill: url(#Dégradé_sans_nom_18);
+      }
+
+      .st8 {
+        fill: url(#Dégradé_sans_nom_16);
+      }
+
+      .st5, .st4 {
+        clip-rule: evenodd;
+      }
+
+      .st9 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_17" data-name="Dégradé sans nom 17" x1="22.02" y1="30.59" x2="48.16" y2="9.41" gradientUnits="userSpaceOnUse">
+      <stop offset=".09" stop-color="#51b7b0"/>
+      <stop offset=".93" stop-color="#3c0366"/>
+    </linearGradient>
+    <clipPath id="clippath">
+      <path class="st5" d="M37.33,6.75c6.32,0,11.44,5.12,11.44,11.44s-5.12,11.44-11.44,11.44-11.44-5.12-11.44-11.44,5.12-11.44,11.44-11.44M37.33,1.37c9.29,0,16.82,7.53,16.82,16.82s-7.53,16.82-16.82,16.82-16.82-7.53-16.82-16.82S28.04,1.37,37.33,1.37Z"/>
+    </clipPath>
+    <linearGradient id="Dégradé_sans_nom_16" data-name="Dégradé sans nom 16" x1="48.16" y1="25.88" x2="21.03" y2="6.62" gradientUnits="userSpaceOnUse">
+      <stop offset=".54" stop-color="#3c0366"/>
+      <stop offset=".59" stop-color="#412f78"/>
+      <stop offset=".65" stop-color="#465889"/>
+      <stop offset=".71" stop-color="#497a97"/>
+      <stop offset=".77" stop-color="#4d95a2"/>
+      <stop offset=".84" stop-color="#4fa8a9"/>
+      <stop offset=".9" stop-color="#50b3ae"/>
+      <stop offset=".97" stop-color="#51b7b0"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_10" data-name="Dégradé sans nom 10" x1="24.52" y1="26.6" x2="41.34" y2="26.6" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#00d4bd"/>
+      <stop offset=".89" stop-color="#3c0366"/>
+    </linearGradient>
+    <clipPath id="clippath-1">
+      <path class="st4" d="M37.33,18.19c9.29,0,16.82,7.53,16.82,16.82h-5.38c0-6.32-5.12-11.44-11.44-11.44v-5.38Z"/>
+    </clipPath>
+    <linearGradient id="Dégradé_sans_nom_18" data-name="Dégradé sans nom 18" x1="35.84" y1="22.31" x2="50.59" y2="28.7" gradientUnits="userSpaceOnUse">
+      <stop offset=".06" stop-color="#51b7b0"/>
+      <stop offset=".25" stop-color="#4a7d98"/>
+      <stop offset=".63" stop-color="#3c0366"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <text class="st1" transform="translate(55.17 34.98)"><tspan x="0" y="0">ivo</tspan></text>
+    <text class="st0" transform="translate(93.82 15.69)"><tspan x="0" y="0">pay</tspan></text>
+  </g>
+  <g>
+    <g>
+      <path class="st3" d="M37.33,6.75c6.32,0,11.44,5.12,11.44,11.44s-5.12,11.44-11.44,11.44-11.44-5.12-11.44-11.44,5.12-11.44,11.44-11.44M37.33,1.37c9.29,0,16.82,7.53,16.82,16.82s-7.53,16.82-16.82,16.82-16.82-7.53-16.82-16.82S28.04,1.37,37.33,1.37Z"/>
+      <g class="st9">
+        <rect class="st8" x="20.5" y="1.37" width="33.64" height="33.64"/>
+      </g>
+    </g>
+    <g>
+      <path class="st2" d="M37.33,18.19c9.29,0,16.82,7.53,16.82,16.82h-5.38c0-6.32-5.12-11.44-11.44-11.44v-5.38Z"/>
+      <g class="st6">
+        <rect class="st7" x="37.33" y="18.19" width="16.82" height="16.82"/>
+      </g>
+    </g>
+  </g>
+</svg>
