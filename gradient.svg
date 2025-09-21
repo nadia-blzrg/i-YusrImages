@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 620 350">
+  <!-- Generator: Adobe Illustrator 29.8.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 2)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Dégradé_sans_nom_3);
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_3" data-name="Dégradé sans nom 3" x1="-108.56" y1="-129.76" x2="471.46" y2="292.56" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#50b7b0"/>
+      <stop offset=".29" stop-color="#4ea9a8"/>
+      <stop offset=".43" stop-color="#487890"/>
+      <stop offset=".56" stop-color="#43527c"/>
+      <stop offset=".69" stop-color="#40376e"/>
+      <stop offset=".8" stop-color="#3e2665"/>
+      <stop offset=".88" stop-color="#3e2163"/>
+    </linearGradient>
+  </defs>
+  <rect class="st0" x="0" y="0" width="620" height="350"/>
+</svg>
